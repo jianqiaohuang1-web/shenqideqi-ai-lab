@@ -7,7 +7,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "神奇的奇 AI Lab",
   description:
-    "神奇的奇 AI Lab 是一个持续验证 AI 产品想法的个人实验室，展示职得面、合同审批助手、竞品分析助手和角色智能体实验。",
+    "神奇的奇 AI Lab 是一个持续验证 AI 产品想法的个人实验室，展示职得面、合同审批助手、竞品分析助手和钢铁侠人格智能体。",
   generator: "v0.app",
   icons: {
     icon: [
